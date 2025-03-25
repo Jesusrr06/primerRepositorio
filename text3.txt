@@ -1,2 +1,4 @@
 Seguimos modificando
-nuestro repositorio, ahora incluyendo ramas nuevas
+nuestro repositorio, ahora incluyendo ramas nuevas+ç
+
+“Estamos creando un conflicto”
