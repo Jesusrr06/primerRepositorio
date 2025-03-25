@@ -1,5 +1,11 @@
 Seguimos modificando
+<<<<<<< HEAD
 nuestro repositorio, ahora incluyendo ramas nuevas
 
 Nuestro fichero es el bueno, no nos gustan los
 conflictos
+=======
+nuestro repositorio, ahora incluyendo ramas nuevas+ç
+
+“Estamos creando un conflicto”
+>>>>>>> e7be3019bbeee4e08fcd84d1d52fe9e3fc688a96
